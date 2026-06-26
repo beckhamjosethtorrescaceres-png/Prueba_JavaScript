@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Administrador",
+      "email": "admin@test.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Usuario",
+      "email": "user@test.com",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "name": "Usuario",
+      "email": "user2@test.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "reservations": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
